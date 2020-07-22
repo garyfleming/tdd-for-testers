@@ -19,7 +19,7 @@ footer: @garyfleming
 
 # Why?
 
-^ Why Am I talking about TDD to a group of testers? WHy this? Why now? WHY WHY WHY
+^ Why Am I talking about TDD, traditionally a developer practice, to a group of testers? WHy this? Why now? WHY WHY WHY
 
 ---
 
@@ -317,6 +317,10 @@ TODO EXPAND
 
 ^ Some testers who work on automation tend to work at a much higher level of automated tests. UI or integration tests. API tests. That kind of thing. That's all useful: keep doing that. But consider that these are higher-levels of abstraction. If the foundations we're building on don't stand up to scrutiny, much of what you're doing is going to be flaky or wasted. It'll be time consuming and less valuable. We need to ensure that we're getting those good quality foundations in first.
 
+---
+
+![original fit](images/selenium.png)
+
 
 ---
 
@@ -332,13 +336,13 @@ TODO EXPAND
 
 ![original inline](images/rob-bdd.png)
 
-^ Let's imagine you do want to do something. As rob suggests here, that might not go so well. So what are you going to do about it? How do you practically get involved?
+^ Let's imagine you do want to do something. As Rob suggests here, that might not go so well. So what are you going to do about it? How do you practically get involved? You can do this, because you're not STUPID you're just SCARED. Or at least a little anxious, but I believe in you.
 
 ---
 
 # Pairing / Mobbing
 
-^ The simplest thing you could do is join in as a pair, or as part of a mob. You don't need to know how to write code. You can encourage them to not take shortcuts in the cycle. You can help them see gaps in the tests they're writing AS THEY WRITE THEM. That's powerful. Stopping defects from escaping before they're ever committed.
+^ The simplest thing you could do is join in as a pair, or as part of a mob. You don't need to know how to write code. You can encourage them to not take shortcuts in the cycle. You can help them see gaps in the tests they're writing AS THEY WRITE THEM. That's powerful. Stopping defects from escaping before they're ever committed. Frame it as learning for you and them... because it is. [TODO explain]
 
 ---
 
@@ -353,7 +357,7 @@ TODO EXPAND
 # Not Only Shift Left
 ⬅️➡️↗️↘️⬇️⬆️↙️↖️↕️↔️↪️🔁🔀⤵️🔃🔄⤴️↩️🔂
 
-^ Don't see it as purely something to do on a per story basis. Encouraging a Quality mindset and culture is an ongoing activity that requires constant reinforcement. Become Quality Coaches. Set up Katas for them to practice TDD. It'll help eventually.
+^ Don't see it as purely something to do on a per story basis. Encouraging a Quality mindset and culture is an ongoing activity that requires constant reinforcement. Become Quality Coaches. Set up Katas for them to practice TDD. It'll help eventually. You don't need to know how to do it to encourage it. I see agile coaches make the same mistake
 
 
 ---
@@ -372,9 +376,14 @@ TODO EXPAND
 
 ---
 
+[.background-color: #FFF]
+[.header: #000]
+[.text: #000]
+[.hide-footer]
+
 # Thank You
 
-![inline](images/cat3.gif)
+![inline](images/kittens.jpg)
 
 https://bit.ly/tdd-testers
 https://github.com/garyfleming/tdd-for-testers
